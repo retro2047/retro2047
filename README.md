@@ -14,6 +14,3 @@ Actualmente curso mi cuarto año de Ingeniería en la Universidad de El Salvador
 - **Lenguajes:** Java, JavaScript, Python
 - **Bases de Datos:** MySQL
 - **Herramientas:** Git, GitHub, Entornos de acceso remoto
-
-### 📁 Mis proyectos actuales:
-Te invito a revisar mis repositorios anclados abajo, donde aplico lógica de programación y estructuración de proyectos utilizando **Java** y **JavaScript**. Constantemente estoy trabajando en subir nuevos proyectos de automatización y desarrollo móvil.
