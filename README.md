@@ -1,4 +1,4 @@
-# Hola, soy Noel Hernandez👋
+# Hola, soy Noel Hernandez
 
 **Estudiante de Ingeniería en Desarrollo de Software**
 
